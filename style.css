@@ -1,11 +1,17 @@
 body {
-  background-color: black;
+  background-image: url(https://cdn.wikifarmer.com/images/detailed/2024/12/11%20Interesting%20Facts%20about%20Kiwifruit.png);
   text-align: center;
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed; 
   margin-top: 10%;
   font-family: Georgia, serif;
+
+  font-family: "Indie Flower", cursive;
+  font-weight: 400;
+  font-style: normal;
+
+
 }
 
 html{
@@ -20,7 +26,7 @@ html{
 .container{
   display: flex;
   flex-wrap: wrap;
-  background-color: white;
+  background-color: rgb(255, 219, 211 );
   justify-content: space-around;
   align-items: flex-start;
   padding-bottom: 20px;
@@ -34,6 +40,8 @@ html{
 }
 
 h2{
+
+
   color: black;
 }
 
